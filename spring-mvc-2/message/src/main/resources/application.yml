@@ -1,0 +1,5 @@
+# messages 설정
+spring:
+  messages:
+    basename: messages,config.i18n.messages # 설정값
+#    basename: messages # messages 기본값
